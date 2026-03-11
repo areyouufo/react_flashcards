@@ -1,0 +1,52 @@
+[
+    {
+        "id":1,
+        "front":"apple",
+        "back":"яблоко"
+    },
+    {
+        "id":2,
+        "front": "carrot",
+        "back": "морковка"
+    },
+    {
+        "id":3,
+        "front": "passion fruit",
+        "back": "маракуйя"
+    },
+    {
+        "id":4,
+        "front": "pineapple",
+        "back": "ананас"
+    },
+    {
+        "id":5,
+        "front": "banana",
+        "back": "банан"
+    },
+    {
+        "id":6,
+        "front": "cucumber",
+        "back": "огурец"
+    },
+    {
+        "id":7,
+        "front": "peach",
+        "back": "персик"
+    },
+    {
+        "id":8,
+        "front": "plum",
+        "back": "слива"
+    },
+    {
+        "id":9,
+        "front": "pear",
+        "back": "груша"
+    },
+    {
+        "id":10,
+        "front": "gooseberry",
+        "back": "крыжовник"
+    }
+]
