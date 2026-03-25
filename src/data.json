@@ -2,51 +2,121 @@
     {
         "id":1,
         "front":"apple",
-        "back":"яблоко"
+        "back":"яблоко",
+        "setName":"English"
     },
     {
         "id":2,
         "front": "carrot",
-        "back": "морковка"
+        "back": "морковка",
+        "setName":"English"
     },
     {
         "id":3,
         "front": "passion fruit",
-        "back": "маракуйя"
+        "back": "маракуйя",
+        "setName":"English"
     },
     {
         "id":4,
         "front": "pineapple",
-        "back": "ананас"
+        "back": "ананас",
+        "setName":"English"
     },
     {
         "id":5,
         "front": "banana",
-        "back": "банан"
+        "back": "банан",
+        "setName":"English"
     },
     {
         "id":6,
         "front": "cucumber",
-        "back": "огурец"
+        "back": "огурец",
+        "setName":"English"
     },
     {
         "id":7,
         "front": "peach",
-        "back": "персик"
+        "back": "персик",
+        "setName":"English"
     },
     {
         "id":8,
         "front": "plum",
-        "back": "слива"
+        "back": "слива",
+        "setName":"English"
     },
     {
         "id":9,
         "front": "pear",
-        "back": "груша"
+        "back": "груша",
+        "setName":"English"
     },
     {
         "id":10,
         "front": "gooseberry",
-        "back": "крыжовник"
+        "back": "крыжовник",
+        "setName":"English"
+    },
+    {
+        "id":11,
+        "front": "Россия",
+        "back": "Москва",
+        "setName":"столицы"
+    },
+    {
+        "id":12,
+        "front": "Германия",
+        "back": "Берлин",
+        "setName":"столицы"
+    },
+    {
+        "id":13,
+        "front": "Австрия",
+        "back": "Вена",
+        "setName":"столицы"
+    },
+    {
+        "id":14,
+        "front": "Испания",
+        "back": "Мадрид",
+        "setName":"столицы"
+    },
+    {
+        "id":15,
+        "front": "Швеция",
+        "back": "Стокгольм",
+        "setName":"столицы"
+    },
+    {
+        "id":16,
+        "front": "Португалия",
+        "back": "Лиссабон",
+        "setName":"столицы"
+    },
+    {
+        "id":17,
+        "front": "Дания",
+        "back": "Копенгаген",
+        "setName":"столицы"
+    },
+    {
+        "id":18,
+        "front": "Чехия",
+        "back": "Прага",
+        "setName":"столицы"
+    },
+    {
+        "id":19,
+        "front": "Бельгия",
+        "back": "Брюссель",
+        "setName":"столицы"
+    },
+    {
+        "id":20,
+        "front": "Греция",
+        "back": "Афины",
+        "setName":"столицы"
     }
 ]

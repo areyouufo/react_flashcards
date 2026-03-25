@@ -2,9 +2,13 @@ import { Card } from "./Card";
 
 import cards from "../data.json";
 import { useState } from "react";
+import { useLocation } from "react-router-dom";
 
 export function Set() {
 
+    const location = useLocation()
+    const set = location.state
+    cards = cards.filter((item)=>(item.setName === set))
     const [step,setStep] = useState(0);
     const handleNext = () => {
         if(step < cards.length - 1){
