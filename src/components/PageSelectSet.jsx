@@ -17,7 +17,7 @@ export function PageSelectSet(){
             sets: [],
         }
     ).sets.map((item, index)=>(
-        <BtnSet key={index} name={item}/>
+        <BtnSet key={index} name={item} id={index}/>
     ));
 
     return <div>
