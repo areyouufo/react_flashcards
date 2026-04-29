@@ -16,7 +16,7 @@ import './App.css'
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename='/react_flashcards'>
       <Routes>
         <Route path="/" element={<PageSelectSet/>} />
         <Route path="/set/:id" element={<PageViewSet/>} />
