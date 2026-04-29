@@ -75,7 +75,7 @@ export function FormCreateSet() {
                     message: "Поле Описание набора должно быть заполнено"
                 }
                 })}/>
-                <p className='error-msg'>{errors.disc?.message}</p>
+                <p className='error-msg'>{errors.desc?.message}</p>
             </label>
             <input type="submit" value="Создать сет" className="btn_create" />
         </form>

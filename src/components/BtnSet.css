@@ -20,3 +20,14 @@
     color: aliceblue;
     border-radius: 12px;
 }
+
+@media (width < 910px) {
+    .set-list {
+        flex-wrap: wrap;
+    }
+
+    .list-set__btn {
+        font-size: 24px;
+        font-weight: 400;
+    }
+}

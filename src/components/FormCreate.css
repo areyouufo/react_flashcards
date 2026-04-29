@@ -7,6 +7,12 @@
     font-style: italic;
 }
 
+/* .set-list {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+} */
+
 .input-title {
     display: flex;
     flex-direction: column;
@@ -36,16 +42,38 @@
     gap: 15px;
     justify-content: center;
     margin-bottom: 40px;
+
+
 }
+
+/* .admin-panel {
+      flex-wrap: if(
+        media(width > 550px): nowrap;
+        else: wrap;
+    );
+} */
+
+
 
 .admin-panel__btn {
     padding: 10px 15px;
     background-color: #6d00b6;
     color: aliceblue;
     border-radius: 12px;
+
 }
 
 .error-msg {
     color: red;
-    font-weight: bold;
+    font-size: small;
+    margin-top: 0;
 }
+
+@media (width < 550px) {
+    .header {
+        flex-wrap: wrap;
+        gap: 24px;
+        justify-content: center;
+    }
+}
+
